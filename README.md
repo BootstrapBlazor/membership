@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/bb.png" />
+  <img src="./img/bb.png" style="width: 240px;" />
 </p>
 
 # The .NET BootstrapBlazor Membership Committee
