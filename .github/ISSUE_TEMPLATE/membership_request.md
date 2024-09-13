@@ -13,7 +13,6 @@ _Your name_
 ## Handles:
 
 - GitHub: _GitHub Handle_
-- Discord: _Discord Handle_
 
 ## Interests:
 
