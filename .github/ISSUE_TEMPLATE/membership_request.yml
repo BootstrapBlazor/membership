@@ -1,0 +1,14 @@
+name: Apply to the Membership Committee
+description: Join us and contribute to the component library
+title: "[Membership Application]: <your name>"
+labels: [membership]
+assignees:
+  - argozhang
+body:
+- type: textarea
+  attributes:
+    label: What's your name? 你的名字是什么?
+- type: textarea
+  attributes:
+    label: Github account email? Github 邮箱账号?
+      
