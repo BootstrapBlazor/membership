@@ -9,10 +9,10 @@ body:
   attributes:
     label: What's your name? 你的名字是什么?
     options:
-      required: true
+    - required: true
 - type: input
   attributes:
     label: Github account email? Github 邮箱账号?
     options:
-      required: true
+    - required: true
       
